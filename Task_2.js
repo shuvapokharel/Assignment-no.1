@@ -12,6 +12,3 @@ var largest=(A) =>{
 
 }
 largest ([11, 7, 23, 66, 2, 23]);
-
-
-add
